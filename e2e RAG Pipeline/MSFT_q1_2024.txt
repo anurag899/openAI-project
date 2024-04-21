@@ -1,0 +1,391 @@
+Operator
+
+Greetings and welcome to the Microsoft fiscal year 2024 first quarter earnings conference call. At this time, all participants are in a listen-only mode. A question-and-answer session will follow the formal presentation. [Operator instructions] As a reminder, this conference is being recorded.
+
+I would now like to turn the call over to your host, Brett Iversen, vice president of investor relations. Mr. Iversen, please go ahead. 
+
+Brett Iversen -- General Manager, Investor Relations
+
+Good afternoon and thank you for joining us today. On the call with me are Satya Nadella, chairman and chief executive officer; Amy Hood, chief financial officer; Alice Jolla, chief accounting officer; and Keith Dolliver, corporate secretary and deputy general counsel. On the Microsoft investor relations website, you can find our earnings press release and financial summary slide deck, which is intended to supplement our prepared remarks during today's call and provides a reconciliation of differences between GAAP and non-GAAP financial measures. More detailed outlook slides will be available on the Microsoft investor relations website when we provide outlook commentary on today's call.
+
+Microsoft completed the acquisition of Activision Blizzard on October 13, 2023. We will share more on the expected impact of the Activision acquisition during the outlook commentary portion of today's call. On this call, we will discuss certain non-GAAP items. The non-GAAP financial measures provided should not be considered as a substitute for or superior to the measures of financial performance prepared in accordance with GAAP.
+
+They are included as additional clarifying items to aid investors in further understanding the company's first quarter performance in addition to the impact these items and events have on the financial results. All growth comparisons we make on the call today relate to the corresponding period of last year, unless otherwise noted. We will also provide growth rates in constant currency when available as a framework for assessing how our underlying businesses performed, excluding the effect of foreign currency rate fluctuations. Where growth rates are the same in constant currency, we'll refer to the growth rate only.
+
+We will post our prepared remarks to our website immediately following the call until the complete transcript is available. Today's call is being webcast live and recorded. If you ask a question, it will be included in our live transmission, in the transcript, and in any future use of the recording. You can replay the call and view the transcript on the Microsoft investor relations website.
+
+During this call, we will be making forward-looking statements, which are predictions, projections, or other statements about future events. These statements are based on current expectations and assumptions that are subject to risks and uncertainties. Actual results could materially differ because of factors discussed in today's earnings press release, in the comments made during this conference call, and in the risk factors section of our Form 10-K, Forms 10-Q and other reports and filings with the Securities and Exchange Commission. We do not undertake any duty to update any forward-looking statement.
+
+And with that, I'll turn the call over to Satya. 
+
+Satya Nadella -- Chief Executive Officer
+
+Thank you, Brett. We are off to a strong start to the fiscal year driven by the continued strength of Microsoft Cloud, which surpassed $31.8 billion in quarterly revenue, up 24%. With Copilots, we are making the age of AI real for people and businesses everywhere. We are rapidly infusing AI across every layer of the tech stack and for every role of business process to drive productivity gains for our customers.
+
+Now I'll highlight examples of our progress, starting with infrastructure. Azure, again, took share as organizations bring their workloads to our cloud. We have the most comprehensive cloud footprint with more than 60 data center regions worldwide, as well as the best AI infrastructure for both training and inference. And we also have our AI services deployed in more regions than any other cloud provider.
+
+This quarter, we announced the general availability of our next-generation H100 virtual machines. Azure AI provides access to best-in-class frontier models from OpenAI and open-source models, including our own, as well as from Meta and Hugging Face, which customers can use to build their own AI apps while meeting cost, latency, and performance needs. Because of our overall differentiation, more than 18,000 organizations now use Azure OpenAI service, including new-to-Azure customers. And we are expanding our reach with digital-first companies with OpenAI APIs as leading AI start-ups use OpenAI to power their AI solutions, therefore, making them Azure customers as well.
+
+We continue to see more cloud migrations with Azure Arc. We are meeting customers where they are, helping them run apps across on-prem, edge, and multicloud environments. We now have 21,000 Arc customers, up 140% year over year. We are the only other cloud provider to run Oracle's database services, making it simpler for customers to migrate their on-prem Oracle databases to our cloud.
+
+Customers like PepsiCo and Vodafone will have access to a seamless, fully integrated experience for deploying, managing, and using Oracle database instances on Azure. And we are the cloud of choice for customers' SAP workloads to companies like Brother Industries, Hanes, Xis and ZF Group all run SAP on Azure. Now on to data. In the age of Copilots, organizations are looking to consolidate their data estate.
+
+That's why with our Microsoft Intelligent Data Platform, we are bringing together operational data stores, analytics, and governance. More than 73% of the Fortune 1000 use three or more of our data solutions today. And with Microsoft Fabric, we are unifying compute, storage, and governance into one end-to-end analytics solution with an all-inclusive business model. More than 16,000 customers are actively using Fabric, including over 50% of the Fortune 500.
+
+Now on to developers. With GitHub Copilot, we are increasing developer productivity by up to 55% while helping them stay in the flow and bringing the joy back to coding. We have over 1 million paid Copilot users and more than 37,000 organizations that subscribe to Copilot for business, up 40% quarter over quarter, with significant traction outside the United States. This quarter, we added new capabilities with GitHub Copilot Chat, which are already being used by both digital natives like Shopify, as well as leading enterprises like Maersk and PwC to supercharge the productivity of their software developers.
+
+All of the number of developers using GitHub has increased 4x since our acquisition five years ago. We have also brought Copilot to Power Platform, enabling anyone to use natural language to create apps, build virtual agents, and analyze data. More than 126,000 organizations, including 3M, Equinor, Lumen Technologies, Nationwide, PG&E, and Toyota have all used Copilot and Power Platform to date. EUI, for example, has enabled Copilot for all 170,000-plus Power Platform users at the company.
+
+And this quarter, we added new Copilot capabilities to Power Pages, making it possible to build data-driven websites using just a few sentences or clicks. Finally, Power Apps remains the market leader in low-code, no-code development now with 20 million monthly active users up 40% year over year. Now on to business applications. All our Dynamics 365 took share for the 10th consecutive quarter.
+
+We're using this AI inflection point to redefine our role in business applications. We are becoming the Copilot-led business process transformation layer on top of existing CRM systems like Salesforce. For example, our sales Copilot helps sellers at more than 15,000 organizations, including Rockwell Automation, Sandvik Coromant, Securitas, and Teleperformance personalize customer interactions based on data from third-party CRMs. We're also bringing Copilot to Dynamics 365 to help with everything from suggested actions and content ideas to faster access to valuable business data.
+
+And this quarter, we introduced Copilot and Dynamics 365 Field Service to help streamline frontline tasks. Now on to industry and cross-industry clouds. In healthcare, our Dragon Ambient eXperience solution helps clinicians automatically document patient interactions at the point of care. It's been used across more than 10 million interactions to date.
+
+And with DAX Copilot, we are applying generative models to draft high-quality clinical notes in seconds, increasing physician productivity and reducing burnout. For example, Atrium Health, a leading provider in Southeast United States, credits DAX Copilot with helping its physicians each save up to 40 minutes per day in documentation time. We're also introducing healthcare data solutions in Microsoft Fabric, enabling providers like Northwestern Medicine and Sing Health to unify health data in a secure, compliant way. And with our Microsoft Cloud for Sovereignty, which will become generally available by the end of the calendar year, we offer industry-leading data sovereignty and encryption controls, meeting the specific needs of public sector customers around the world.
+
+Now on to future work. Copilot is your everyday AI assistant, helping you be more creative in Word, more analytical in Excel, more expressive in PowerPoint, more productive in Outlook and more collaborative in Teams. Tens of thousands of employees at customers like Bayer, KPMG, Mayo Clinic, Suncorp and Visa, including 40% of the Fortune 100, are using Copilot as part of our early access program. Customers tell us that once they use Copilot, they can't imagine work without it, and we are excited to make it generally available for enterprise customers next week.
+
+This quarter, we also introduced a new hero experience in Copilot, helping employees tap into their entire universe of work, data, and knowledge using chat. And the new Copilot lab helps employees build their own work habits for this era of AI by helping them turn good prompts into great ones. When it comes to Teams, usage continues to grow with more than 320 million monthly active users, making Teams the place to work across chat, collaboration, meetings, and calling. This quarter, we introduced a new version of Teams that is up to two times faster while using 50% less memory and includes seamless cross-tenant communications and collaboration.
+
+We have seen nine consecutive quarters of triple-digit revenue growth for Teams Rooms, and more than 10,000 paid customers now use Teams Premium. Teams has also become a multiplayer canvas for business process. There are more than 2,000 apps in Teams store and collaborative apps from Adobe, Atlassian, and Workday each exceeded 1 million monthly active users on Teams. And with Viva, we have created a new market category for employee experience, helping companies like Dell, Lloyds Banking Group, and PayPal build high-performance organizations.
+
+With skills in Viva, we are bringing together information from Microsoft 365 and LinkedIn to help employers understand workforce gaps and suggest personalized learning content to address it, all in the flow of work. All up, we continue to see more organizations choose Microsoft 365 in companies across private and public sector, including Cerberus, Chanel, DXC Technology, all rely on our premium E5 offerings for advanced security, compliance, voice, and analytics. Now on to Windows. The PC market unit volumes were at roughly pre-pandemic levels.
+
+And we continue to innovate across Windows, adding differentiated AI-powered experiences to the operating system. We rolled out the biggest update to Windows 11 ever with 150 new features, including new AI-powered experiences like Clipchamp, Paint and Photos. And we introduced Copilot in Windows, the Everyday AI companion, which incorporates the context of the web, your work data, and what you are doing on the PC to provide better assistance. We are seeing accelerated Windows 11 deployments worldwide from companies like BP, Eurowings, Kantar, and RBC.
+
+Finally, with Windows 365 Boot and Switch, we are making it easier than ever for employees at companies like Crocs, Hamburg Commercial Bank, and the ING Bank to get a personalized Windows 365 Cloud PC with Copilot on any device. Now on to security. The speed, scale, and sophistication of cyberattacks today is unparalleled, and security is the No. 1 priority for CIOs worldwide.
+
+We see high demand for Security Copilot, the industry's first and most advanced generative AI product, which is now seamlessly integrated with Microsoft 365 Defender. Dozens of organizations, including Bridgewater, Fidelity National Financial, and Government of Alberta, have been using Copilot in preview and early feedback has been positive. And we look forward to bringing Copilot to hundreds of organizations in the coming months as part of the new early access program so they can improve the productivity of their own security operation centers and stop threats at machine speed. More broadly, we continue to take share across all major categories we serve.
+
+And our SIEM Microsoft Sentinel now has more than 25,000 customers and revenues past $1 billion annual run rate. And customers in every industry like Booz Allen Hamilton, Grant Thorton, and MetLife use our end-to-end solutions to protect their environment. Now on to LinkedIn. We are now applying this new generation of AI to transform how the 985 million members learn, sell, and get hired.
+
+Membership growth has now accelerated each quarter for over two years in a row. This quarter, we introduced new AI-driven features across all of our businesses, including a learning coach that gives members personalized content guidelines and tools to help employers find qualified candidates and sellers and marketeers attract buyers in a single step. Since introducing AI-assisted messages for recruiters five months ago, three-fourths of them say it saves them time. And we have seen a nearly 80% increase in members watching AI-related learning courses this quarter.
+
+More broadly, we continue to see record engagement and knowledge sharing on the platform. We now have more than 450 million newsletter subscriptions globally, up 3x year over year. Premium subscription sign-ups were up 55% year over year, and our hiring business took share for the fifth consecutive quarter. Now on to search advertising and news.
+
+With our Copilots for the web, we are redefining how people use the Internet to search and create. Bing users have engaged in more than 1.9 billion chats, and Microsoft Edge has now gained share for 10 consecutive quarters. This quarter, we introduced new personalized answers, as well as support for DALL·E 3, helping people get more relevant answers and to create incredibly realistic images. More than 1.8 billion images have been created to date.
+
+And with our Copilot in shopping, people can find more tailored recommendations and better deals. We're also expanding to new end points, bringing Bing to Meta's AI chat experience in order to provide more up-to-date answers, as well as access to real-time search information. Finally, we are integrating this new generation of AI directly into our ad platforms to more effectively connect marketeers to customer intent and chat experiences both from us, as well as customers like Axel Springer and Snap. Now on to gaming.
+
+We were delighted to close our acquisition of Activision Blizzard King earlier this month. Together, we will advance our goal of bringing great games to players everywhere on any end point. Already with Game Pass, we are redefining how games are distributed, played, and discovered. We set a record for hours played per subscriber this quarter.
+
+Prerelease stuff fill this quarter to broad acclaim. More than 11 million people have played the game to date. Nearly half of the hours played have been on PC and on launch day, we set a record for the most Game Pass subscriptions added on a single day ever. Minecraft has now surpassed 300 million copies sold and with Activision Blizzard King, we now add significant depth to our content portfolio.
+
+We will have $13 billion-plus franchises from Candy Crush, Diablo, and Halo to Warcraft, Elder Scrolls, and Gears of War. And we're looking forward to one of our strongest first-party holiday lineup ever, including new titles like Call of Duty: Modern Warfare 3 and Forza Motorsport. In closing, we are rapidly innovating to expand our opportunity across our consumer and commercial businesses as we help our customers thrive in this new era. In just a few weeks, we'll be holding our flagship Ignite Conference, where we will introduce more than 100 new products and capabilities, including exciting new AI innovations.
+
+I encourage you to tune in. With that, I'll turn it over to Amy. 
+
+Amy Hood -- Chief Financial Officer
+
+Thank you, Satya, and good afternoon, everyone. This quarter, revenue was $56.5 billion, up 13% and 12% in constant currency. Earnings per share was $2.99 and increased 27% and 26% in constant currency. Consistent execution by our sales teams and partners have a strong start to the fiscal year.
+
+Results exceeded expectations, and we saw share gains again this quarter across many businesses as customers adopt our innovative solutions to transform their businesses. In our commercial business, the trends from the prior quarter continued. We saw healthy renewals, particularly in Microsoft 365 E5, and growth of new business continued to be moderated for stand-alone products sold outside the Microsoft 365 suite. In Azure, as expected, the optimization trends were similar to Q4.
+
+Higher-than-expected AI consumption contributed to revenue growth in Azure. In our consumer business, PC market unit volumes are returning to pre-pandemic levels. Advertising spend landed roughly in line with our expectations. And in gaming, strong engagement helped by the Starfield launch benefited Xbox content and services.
+
+Commercial bookings increased 14% and 17% in constant currency, in line with expectations, primarily driven by strong execution across our core annuity sales motion with continued growth in the number of $10 million-plus contracts for both Azure and Microsoft 365. Commercial remaining performance obligation increased 18% to $212 billion. Roughly 45% will be recognized in revenue in the next 12 months, up 15% year over year. The remaining portion, which will be recognized beyond the next 12 months, increased 20%.
+
+And this quarter, our annuity mix was 96%. FX did not have a significant impact on our results and was roughly in line with our expectations on total company revenue, segment-level revenue, COGS, and operating expense growth. Microsoft Cloud revenue was $31.8 billion and grew 24% and 23% in constant currency, ahead of expectations. Microsoft Cloud gross margin percentage increased slightly year over year to 73%, a point better than expected, primarily driven by improvement in Azure.
+
+Excluding the impact of the change in accounting estimate for useful lives, Microsoft Cloud gross margin percentage increased roughly 2 points driven by the improvement just mentioned in Azure, as well as Office 365, partially offset by the impact of scaling our AI infrastructure to meet growing demand. Company gross margin dollars increased 16% and 15% in constant currency, and gross margin percentage increased year over year to 71%. Excluding the impact of the change in accounting estimate, gross margin percentage increased roughly 3 points driven by the improvement in Azure and Office 365, as well as sales mix shift to higher-margin businesses. Operating expenses increased 1%, lower than expected due to cost efficiency focus, as well as investments that shifted to future quarters.
+
+Operating expense growth was driven by marketing, LinkedIn, and cloud engineering, partially offset by devices. At a total company level, headcount at the end of September was 7% lower than a year ago. Operating income increased 25% and 24% in constant currency. Operating margins increased roughly 5 points year over year to 48%.
+
+Excluding the impact of the change in accounting estimate, operating margins increased roughly 6 points driven by improved operating leverage through cost management and the higher gross margin noted earlier. Now to our segment results. Revenue from productivity and business processes was $18.6 billion and grew 13% and 12% in constant currency, ahead of expectations, driven by better-than-expected results in Office 365 commercial and LinkedIn. Office commercial revenue grew 15% and 14% in constant currency.
+
+Office 365 commercial revenue increased 18% and 17% in constant currency, slightly better than expected with a bit more in-period revenue recognition, while billings remained relatively in line with expectations. Growth continues to be driven by healthy renewal execution and ARPU growth as E5 momentum remains strong. Paid Office 365 commercial seats grew 10% year over year with installed base expansion across all customer segments. Seat growth was again driven by our small and medium business and frontline worker offerings with continued impact from the growth trends in new stand-alone business noted earlier.
+
+Office commercial licensing declined 17%, in line with the continued customer shift to cloud offerings. Office consumer revenue increased 3% and 4% in constant currency with continued momentum in Microsoft 365 subscriptions, which grew 18% to $76.7 million. LinkedIn revenue increased 8%, ahead of expectations, driven by slightly better-than-expected performance across all businesses. Growth was driven by Talent Solutions, though we continue to see negative year-over-year bookings there from the weaker hiring environment in key verticals.
+
+Dynamics revenue grew 22% and 21% in constant currency driven by Dynamics 365, which grew 28% and 26% in constant currency with continued growth across all workloads. Segment gross margin dollars increased 13% and gross margin percentage increased slightly year over year. Excluding the impact of the change in accounting estimate, gross margin percentage increased roughly 1 point driven by improvement in Office 365. Operating expenses increased 2% and operating income increased 20% and 19% in constant currency.
+
+Next, the Intelligent Cloud segment. Revenue was $24.3 billion, increasing 19% and ahead of expectations with better-than-expected results across all businesses. Overall, server products and cloud services revenue grew 21%. Azure and other cloud services revenue grew 29% and 28% in constant currency, including roughly 3 points from AI services.
+
+While the trends from prior quarter continued, growth was ahead of expectations primarily driven by increased GPU capacity and better-than-expected GPU utilization of our AI services, as well as slightly higher-than-expected growth in our per-user business. In our per-user business, the Enterprise Mobility and Security install base grew 11% to over 259 million seats with continued impact from the growth trends in new stand-alone business noted earlier. In our on-premises server business, revenue increased 2%, ahead of expectations, driven primarily by demand in advance of Windows Server 2012 end of support. Enterprise and partner services revenue increased 1% and was relatively unchanged in constant currency, ahead of expectations, driven by better-than-expected performance in enterprise support services.
+
+Segment gross margin dollars increased 20% and 19% in constant currency, and gross margin percentage increased slightly. Excluding the impact of the change in accounting estimate, gross margin percentage increased roughly 2 points, driven by the improvement in Azure noted earlier, even as we scale our AI infrastructure to meet growing demand. Operating expenses increased 2% and 1% in constant currency. Operating income grew 31% and 30% in constant currency.
+
+Now to more personal computing. Revenue was $13.7 billion, increasing 3% and 2% in constant currency, above expectations with better-than-expected results across all businesses. Windows OEM revenue increased 4% year over year, significantly ahead of expectations, driven by stronger-than-expected consumer channel inventory builds and the stabilizing PC market demand noted earlier, particularly in commercial. Windows Commercial products and cloud services revenue increased 8%, driven by demand for Microsoft 365 E5.
+
+Devices revenue decreased 22%, ahead of expectations due to stronger execution in the commercial segment. Search and news advertising revenue ex TAC increased 10% and 9% in constant currency, slightly ahead of expectations. We saw increased engagement on Bing and Edge share gains again this quarter, although search revenue growth continues to be impacted by a third-party partnership. And in gaming.
+
+Revenue increased 9% and 8% in constant currency, ahead of expectations, driven by better-than-expected subscriber growth in Xbox Game Pass, as well as first-party content, primarily due to the Starfield launch. Xbox content and services revenue increased 13% and 12% in constant currency, and Xbox hardware revenue declined 7% and 8% in constant currency. Segment gross margin dollars increased 13% and 12% in constant currency, and gross margin percentage increased roughly 5 points year over year, driven primarily by sales mix shift to higher-margin businesses. Operating expenses declined 1%, and operating income increased 23% and 22% in constant currency.
+
+Now back to total company results. Capital expenditures, including finance leases, were $11.2 billion to support cloud demand, including investments to scale our AI infrastructure. Cash paid for PP&E was $9.9 billion. Cash flow from operations was $30.6 billion, up 32% year over year, driven by strong cloud billings and collections.
+
+Free cash flow was $20.7 billion, up 22% year over year. This quarter, other income and expense was $389 million, higher than anticipated, driven by interest income, partially offset by net losses on investments and foreign currency remeasurement. Our effective tax rate was approximately 18%. And finally, we returned $9.1 billion to shareholders through share repurchases and dividends.
+
+Now moving to our Q2 outlook, which unless specifically noted otherwise, is on a U.S. dollar basis. The Activision acquisition closed on October 13. So, my commentary includes the net impact of the deal from the date of acquisition.
+
+Our outlook includes purchase accounting impact, integration and transaction-related expenses based on our current understanding of the purchase price allocation and related deal accounting. The net impact includes adjusting for the movement of Activision content from our prior relationship as a third-party partner to first party. Now to FX. Based on current rates, we expect FX to increase total revenue and segment-level revenue growth by approximately 1 point.
+
+We expect FX to have no impact to COGS and operating expense growth. In commercial bookings, we expect consistent execution across our core annuity sales motion, including healthy renewals, but growth will be impacted by a low-growth expiry base. Therefore, we expect bookings growth to be relatively flat. Microsoft Cloud gross margin percentage should be relatively flat year over year.
+
+Excluding the impact from the accounting estimate change, Q2 cloud gross margin percentage will be up roughly 1 point, primarily driven by improvement in Azure and Office 365, partially offset by the impact of scaling our AI infrastructure to meet growing demand. We expect capital expenditures to increase sequentially on a dollar basis, driven by investments in our cloud and AI infrastructure. As a reminder, there can be normal quarterly spend variability in the timing of our cloud infrastructure buildout. Next to segment guidance.
+
+In productivity and business processes, we expect revenue to grow between 11% and 12% or USD 18.8 billion to USD 19.1 billion. Growth in constant currency will be approximately 1 point lower. In Office commercial, revenue growth will again be driven by Office 365 with seat growth across customer segments and ARPU growth through E5. We expect Office 365 revenue growth to be up roughly 16% in constant currency.
+
+We're excited for Microsoft 365 Copilot general availability on November 1 and expect the related revenue to grow gradually over time. In our on-premise business, we expect revenue to decline in the mid- to high teens. In Office consumer, we expect revenue growth in the mid-single digits, driven by Microsoft 365 subscriptions. For LinkedIn, we expect revenue growth in the mid-single digits, driven by Talent Solutions and Marketing Solutions.
+
+Growth continues to be impacted by the overall market environments for recruiting and advertising, especially in the technology industry where we have significant exposure. And in Dynamics, we expect revenue growth in the high teens driven by Dynamics 365. For Intelligent Cloud, we expect revenue to grow between 17% and 18% or USD 25.1 billion to USD 25.4 billion. Revenue growth in constant currency will be approximately 1 point lower.
+
+Revenue will continue to be driven by Azure, which, as a reminder, can have quarterly variability primarily from our per-user business and from in-period revenue recognition, depending on the mix of contracts. In Azure, we expect revenue growth to be 26% to 27% in constant currency with an increasing contribution from AI. Growth continues to be driven by Azure consumption business, and we expect the trends from Q1 to continue into Q2. Our per-user business should continue to benefit from Microsoft 365 suite momentum, though we expect continued moderation in seat growth rates given the size of the installed base.
+
+For H2, assuming the optimization and new workload trends continue and with the growing contribution from AI, we expect Azure revenue growth in constant currency to remain roughly stable compared to Q2. In our on-premises server business, we expect revenue growth to be roughly flat with continued hybrid demand, particularly from licenses running in multi-cloud environments. In enterprise and partner services, revenue should decline low to mid-single digits. Now to more personal computing, which includes the net impact from the Activision acquisition.
+
+We expect revenue of USD 16.5 billion to USD 16.9 billion. Windows OEM revenue growth should be mid- to high single digits with PC market unit volumes expected to look roughly similar to Q1. In devices, revenue should decline in the mid-teens as we continue to focus on our higher-margin premium products. In Windows Commercial products and cloud services, customer demand for Microsoft 365 and our advanced security solutions should drive revenue growth in the low to mid-teens.
+
+Search and news advertising ex TAC revenue growth should be mid-single digits with roughly 4 points of negative impact from a third-party partnership. Growth should be driven by volume strength supported by Edge browser share gains and increasing Bing engagement as we expect the advertising spend environment to be similar to Q1. Reminder that this ex TAC growth will be roughly 4 points higher than overall search and news advertising revenue. And in gaming, we expect revenue growth in the mid- to high 40s.
+
+This includes roughly 35 points of net impact from the Activision acquisition, which, as a reminder, includes adjusting for the third-party to first-party content change noted earlier. We expect Xbox content and services revenue growth in the mid- to high 50s, driven by roughly 50 points of net impact from the Activision acquisition. Now back to company guidance. We expect COGS between USD 19.4 billion to USD 19.6 billion, including approximately $500 million of amortization of acquired intangible assets from the Activision acquisition.
+
+We expect operating expense of USD 15.5 billion to USD 15.6 billion, including approximately $400 million from purchase accounting adjustments, integration and transaction-related costs from the Activision acquisition. Other income and expense should be roughly negative $500 million as interest income will be more than offset by interest expense, primarily due to a reduction in our investment portfolio balance and the issuance of short-term debt, both for the Activision acquisition. As a reminder, we are required to recognize gains or losses on our equity investments, which can increase quarterly volatility. We expect our Q2 effective tax rate to be between 19% and 20%.
+
+Now some additional thoughts on H2, as well as the full fiscal year. First, FX. Assuming current rates remain stable, we expect FX to have no meaningful impact to full year revenue COGS or operating expense growth. Therefore, in H2, we expect FX to decrease revenue COGS and operating expense growth by 1 point.
+
+Second, Activision. We expect approximately $900 million for purchase accounting adjustments, as well as integration and transaction-related costs in each quarter in H2. For our full FY '24, we remain committed to investing for the cloud and AI opportunity while also maintaining our disciplined focus on operating leverage. Therefore, as we add the net impact of Activision, inclusive of purchase accounting adjustments, as well as integration and transaction-related expenses, we continue to expect full year operating margins to remain flat year over year.
+
+In closing, with our strong start to FY '24, I am confident that as a team, we will continue to deliver healthy growth in the year ahead, driven by our leadership in commercial cloud and our commitment to lead the AI platform wave. With that, let's go to Q&A, Brett. 
+
+Brett Iversen -- General Manager, Investor Relations
+
+Thanks, Amy. We'll now move over to Q&A. Out of respect for others on the call, we request to participants to please ask only one question. Joe, can you please repeat your instructions?
+
+Questions & Answers:
+
+Operator
+
+[Operator instructions] One moment please while we poll for questions. Our first question comes from the line of Keith Weiss with Morgan Stanley. Please proceed.
+
+Keith Weiss -- Morgan Stanley -- Analyst
+
+Excellent. Thank you for taking the question, and very nice quarter. The pace of innovation you guys have been putting out has been pretty amazing. And new products are like garnering traction probably faster than we had expected on our side of the equation.
+
+But we're also working in an overall spending environment that remains volatile at that, and I think investors are getting more concerned on it. So, two questions on this. One, based on sort of the new products and the innovation, do you think you guys can sustain the type of commercial growth that we saw in Q1 as we go through the year? Or is the environment too tricky for that? And then when it relates to investment, Amy, you've been able to keep overall opex growth very low, and it was very low this quarter. At some point, should we be thinking about a return to a more aggressive investment behind all this product innovation? 
+
+Satya Nadella -- Chief Executive Officer
+
+Maybe I can start, Keith, and Amy, you can add to it. Overall, there are multiple things, Keith, that are all happening, obviously, simultaneously. If you just take Azure and try to characterize where is the growth for Azure coming from or what sort of drivers for Azure numbers, there are three things all happening in parallel. Like, for example, take cloud migrations.
+
+A good reminder of where we are and even the core cloud migration story is the new Oracle announcement. Once we announce that the Oracle databases are going to be available on Azure, we saw a bunch of unlock from new customers who have significant Oracle estates that have not yet moved to the cloud because they needed to run the GUI with the rest of the app estate in one single cloud. And so, we're excited about that. So, in some sense, even the financial services sector, for example, is a good place where there's a lot of Oracle that still needs to move to the cloud.
+
+Second thing, of course, is the workloads start, then workloads get optimized and then new workloads start. And that cycle continues. We'll lap some of those optimization cycles that were fairly extreme perhaps in the second half of our fiscal. And the third thing is, for us, that's unique and different is new workload starts around AI.
+
+Given our leadership position, we are seeing complete new project starts, which are AI projects. And as you know, AI projects are not just about AI meters. They have lots of other cloud meters as well. So, that sort of gives you one side of what's happening in terms of enterprise.
+
+The other piece is on the SaaS side. Obviously, again, this is a new product that's going to go through the enterprise adoption cycle. The results are on productivity, which we demonstrated with GitHub Copilot is what's giving us good confidence and our customers, more importantly, good confidence around what these products represent in terms of value. And so, we are in the very, very early innings there.
+
+And so, we look forward to seeing the traction for these products going forward. 
+
+Amy Hood -- Chief Financial Officer
+
+Keith, maybe just a few things to add, and then I'll talk a little bit about the operating leverage, which is the second part of your question. In general, we saw very consistent execution from Q4 to Q1, and that's what we're talking about into Q2. I think that speaks to our value prop, which is where Satya went. It speaks to making sure that customers are getting a very quick return on value, real productivity improvement, real savings so that when we're asking at renewal or talking about E5 upgrades or talking about AI services that those come with real promises of high-value scenarios.
+
+And so, I think that is an important piece as you think about stability in commercial demand. And then if you think about the nature of your question, it was partially why I talked about in my full year guidance that now even with the addition of Activision and purchase accounting impacts, integration impacts, we still feel confident we can deliver consistent operating margins to last year. And it speaks to, I think, some of the improvements we're making in Azure and even Microsoft 365 gross margins, even in the core of the commercial cloud. It speaks to the pace at which we are delivering AI revenue with the increasing cost expense and capital investment ahead with the demand we see.
+
+And although you're right, our operating expense comparables in H2 get more challenging than in H1, we're really focused on making sure that every dollar we put and commit is back to the priorities we talked about, which is commercial cloud leadership and leading the AI wave. And so, I think that focus is really helping on both execution and leverage.
+
+Keith Weiss -- Morgan Stanley -- Analyst
+
+Excellent. Thank you, guys.
+
+Brett Iversen -- General Manager, Investor Relations
+
+Thanks, Keith. Joe, next question, please.
+
+Operator
+
+The next question comes from the line of Mark Moerdler with Bernstein Research. Please proceed.
+
+Mark Moerdler -- AllianceBernstein -- Analyst
+
+Thank you very much and congratulations on a really strong quarter. AI has been far stronger than expected, beat your guidance for Azure this quarter. And while you discussed higher utilization and more GPUs have helped, has the fact that Microsoft has a full AI dev stack, Copilot reference architecture and plug-in architecture, been a meaningful factor not just from a revenue perspective, but also even potentially from a margin perspective? In addition, can you give us any color on whether Azure GPU is predominantly model training? Or are we seeing a lot of inferencing yet from clients? Thanks. 
+
+Satya Nadella -- Chief Executive Officer
+
+OK. Thank you for the question, Mark. Yes, it is true that we have -- the approach we have taken is a full-stack approach all the way from whether it's ChatGPT or Bing chat or all our Copilots all share the same model. So, in some sense, one of the things that we do have is very, very high leverage of the one model that we used, which we trained, and then the one model that we are doing inferencing at scale.
+
+And that advantage sort of trickles down all the way to both utilization internally, utilization of third parties. And also over time, you can see that sort of stack optimization all the way to the silicon because the abstraction layer to which the developers are riding is much higher up than no-level kernels, if you will. So, therefore, I think there is a fundamental approach we took, which was a technical approach of saying we'll have Copilots and Copilot stack all available. That doesn't mean we don't have people doing training for open-source models or proprietary models.
+
+We also have a bunch of open-source models. We have a bunch of fine-tuning happening, a bunch of RLHF happening. So, there's all kinds of ways people use it, but the thing is we have scale leverage of one large model that was trained and one large model that's been used for inference across all our first-party SaaS apps, as well as our API in our Azure AI service.
+
+Amy Hood -- Chief Financial Officer
+
+And the reason, Mark, that's important is that it means, even beyond the point Satya made, is that when it comes to our ability to leverage the infrastructure that we're building out, we don't really have a preference in terms of how people are utilizing that infrastructure, whether it's through all the means that Satya mentioned. It gives us a good opportunity to see quick conversion into revenue. 
+
+Satya Nadella -- Chief Executive Officer
+
+Yeah. I mean one other thing I would just add to perhaps Mark's question, as well as Keith's is in a -- this platform transition, I think, is very important for us to be very disciplined on both I'll call it our tech stack, as well as our capital spend all to be concentrated. The lesson learned from the cloud side is this, we're not running a conglomerate of different businesses. It's all one tech stack up and down Microsoft's portfolio.
+
+And that I think is going to be very important because that discipline, given what the spend like -- it will look like for this AI transition, any business that's not disciplined about their capital spend accruing across all their businesses could run into trouble.
+
+Mark Moerdler -- AllianceBernstein -- Analyst
+
+Extremely helpful. Thank you so much.
+
+Brett Iversen -- General Manager, Investor Relations
+
+Thanks, Mark. Joe, next question, please.
+
+Operator
+
+The next question comes from the line of Brent Thill with Jefferies. Please proceed. 
+
+Brent Thill -- Jefferies -- Analyst
+
+Thanks. Amy, good to see the 12% growth. Many investors are asking can you sustain double-digit growth, especially with the stronger AI boost coming in the next several quarters. 
+
+Amy Hood -- Chief Financial Officer
+
+I think looking at our -- as I said, Q1 was a strong start to the year. Q2 certainly implies that. We talked about stability for Azure into the second half of the year looking at -- and in line with what we're seeing for Q2. And so, I think we feel good about our ability to execute, but more importantly, our ability to continue to take share.
+
+Brett Iversen -- General Manager, Investor Relations
+
+Thanks, Brent Joe. Next question, please.
+
+Operator
+
+The next question comes from the line of Raimo Lenschow with Barclays. Please proceed. 
+
+Raimo Lenschow -- Barclays -- Analyst
+
+Hey, thank you. You sound very optimistic about the opportunity in the Office space with Copilot coming out now very soon. Can you speak a little bit about the -- what you're seeing there in the customer base that tested this already in terms of how excited they were, the special features there? And what does it mean in terms of adoption curve for that going forward once you go GA in 1st of November? Thank you. 
+
+Satya Nadella -- Chief Executive Officer
+
+No, thanks for the question, Raimo. The good news is twofold. One is the fact that, what, 40% of the Fortune 100 are already in the preview and are using the product. And I think you all have also done lots of checks.
+
+And the feedback is very, very positive. And in fact, the interesting thing is it's not any one tool, right, which is the feedback even sort of is very clear that it's the all up. You just keep hitting the Copilot button across every surface, right, whether it's in Word to create documents, in Excel to do analysis or PowerPoint or Outlook or Teams. Like clearly, the Teams Meeting, which is an intelligent recap, right? It's not just a dumb transcript.
+
+It's like having a knowledge base of all your meetings that you can query and add to essentially the knowledge terms of your enterprise. And so, we are seeing broad usage across and the interesting thing is by different functions, whether it's in finance or in sales by roles. We have seen productivity gains like we saw with developers in GitHub Copilot. So, that's the data.
+
+We are very excited about our Ignite Conference, where we will talk a lot more about all of the use cases and where's the value and give more prescriptive guidance on how people can deploy. But so far so good as far as the data is and the feedback is. And of course, this is an enterprise product. I mean at the end of the day, we are grounded on enterprise cycle times in terms of adoption and ramp.
+
+And it's incrementally priced. So, therefore, that all will apply still. But at least for something completely new, to have this level of usage already and this level of excitement is something we're very, very pleased with.
+
+Raimo Lenschow -- Barclays -- Analyst
+
+Thank you.
+
+Brett Iversen -- General Manager, Investor Relations
+
+Thanks, Raimo. Joe, next question, please.
+
+Operator
+
+Next question comes from the line of Karl Keirstead with UBS. Please proceed.
+
+Karl Keirstead -- UBS -- Analyst
+
+OK, great. Thanks. Amy, congrats on the 28% constant currency Azure growth. That's terrific.
+
+I wanted to press you a little bit on the outlook for Azure. You're obviously guiding to a 1- to 2-point decel in December and then stable thereafter. But why would it be stable? Why wouldn't it accelerate in the second half of your fiscal year if the AI contribution is increasing as you bring on more GPU capacity? Is this a function of perhaps continued core ex-AI Azure spend optimization continuing or maybe even getting slightly worse? Why couldn't we see some upside in that Azure number? I know you're trying to be conservative, but I'd just love to understand it. Thanks so much.
+
+Amy Hood -- Chief Financial Officer
+
+Thanks, Karl. A couple of things as I talked about Q2 and then into H2. We've been very consistent that the optimization trends have been consistent for us through a couple of quarters now. Customers are going to continue to do that.
+
+It's an important part of running workloads. That is not new. There obviously were some quarters where it was more accelerated. But that is a pattern that is and has been a fundamental part of having customers, both make new room for new workload adoption and continue to build new capabilities.
+
+And so, I think that impact remains through the rest of the year, and my view is unchanged on that. And then, of course, I think the key component has always been new workload starts. And at the scale we're talking about, being able to have stability in our Azure business does mean that we will have a lot of new workload starts. And primarily, we're expecting those to come from AI workloads.
+
+But AI workloads don't just use our AI services. They use data services and they use other things. And so, that combination, I think, looking on a competitive basis, we feel good about our execution, we feel good about taking share, and we feel good about consistent trends. And so, I feel good about that guide and what it says about where we are on share.
+
+Karl Keirstead -- UBS -- Analyst
+
+Terrific, thanks.
+
+Brett Iversen -- General Manager, Investor Relations
+
+Thanks, Karl. Joe, next question, please.
+
+Operator
+
+The next question comes from the line of Brad Sills with Bank of America. Please proceed. 
+
+Brad Sills -- Bank of America Merrill Lynch -- Analyst
+
+Oh, wonderful. Thank you so much. Very impressive to see the Office 365 Commercial seat growth hanging in here in that double-digit range. It's very impressive just given the scale of that business, we think of Office as having such a dominant market position.
+
+Curious how you think about the -- where that seat is coming from and how many more of those seats are out there to go get.
+
+Amy Hood -- Chief Financial Officer
+
+Thanks for that question. Maybe I'll take that. Satya, if you want to add. In general, our seat growth has -- it does come from all segments but with a particular strength in small and midsized businesses, as well as what we call the frontline worker opportunity.
+
+And then that has been, I would say, looking back a number of quarters, where the majority of our seat growth has gone. And while obviously, it's slowed a bit, to your point, I think the fact that we're still able to add seats at this level speaks to the broadening nature of what Microsoft 365 needs. It's more applicable to more people. And so, I think many people have thought, oh, my goodness, you've got a lot of customers already.
+
+And we look and say, how many people when you expand what Microsoft 365 means, whether it's security or it means analytics or it means Teams, it means lots of things and an expanding definition, it applies to more types of workers. And frankly, the value is such, especially on the small business front, where it's to the point where I think people feel like it's a great way to spend even the spend money they have is this remains a pretty compelling offer.
+
+Brad Sills -- Bank of America Merrill Lynch -- Analyst
+
+Thank you.
+
+Brett Iversen -- General Manager, Investor Relations
+
+Thanks, Brad. Joe, next question, please.
+
+Operator
+
+The next question comes from the line of Brent Bracelin with Piper Sandler. Please proceed.
+
+Brent Bracelin -- Piper Sandler -- Analyst
+
+Thank you. Good afternoon. One thing that really stood out to me was the intelligent cloud segment operating margin. These came in, I think, at the highest level in six years despite elevated AI investments.
+
+Was there a one-time tailwind here that helped? Or are you at the point where Azure has got to kind of scale where Microsoft could sustain high margins even with an ambitious AI investment cycle?
+
+Amy Hood -- Chief Financial Officer
+
+Thanks for that question. I think there are a couple of things going on. I would say, in particular, this was a very good leverage quarter in that segment. Number one, the Azure revenue growth and the stability we're seeing in it absolutely is a help to operating leverage.
+
+The second component of that is our core Azure business. The team continues to deliver thoughtful gross margin improvement across both technical decisions, software implementations. Our teams on the infrastructure build side have done really good work to deliver that. And so, that's been helpful as well.
+
+And then, of course, on operating expenses, there's been a good focus on continuing even within that segment to make sure we're focusing that work leading in the AI transition with Azure. And so, you're right, even as we're investing in AI infrastructure, which will and should show up as revenue, it will also show up in COGS and still deliver good margin. But this does have a slightly, as I talked about earlier, easier comp in Q1 and Q2 given it was some of our highest growth operating expense quarters in our company's history a year ago.
+
+Brent Bracelin -- Piper Sandler -- Analyst
+
+Makes sense. Thank you.
+
+Brett Iversen -- General Manager, Investor Relations
+
+Thanks, Brent. Joe, we have time for one last question.
+
+Operator
+
+The last question will come from the line of Gregg Moskowitz with Mizuho. Please proceed.
+
+Gregg Moskowitz -- Mizuho Securities -- Analyst
+
+OK. Thank you very much for taking the question. Maybe just a follow-up to what Brent was just asking about but on the gross margin line. Amy, the Microsoft Cloud gross margin is up 2 points year over year, excluding the useful life change, a little more improvement than we've seen in some time.
+
+And some investors were worried that it might go in the other direction given increased AI investments. And so, as you look forward, do you think that you could drive some continued gross margin improvement over the medium term and even as higher capex will filter into the model? Thanks.
+
+Amy Hood -- Chief Financial Officer
+
+Yeah. Let me break that into two components because they're both important, and it's a really good question, Gregg. On our core business, the core Azure business, the core Office 365, M365 Business Dynamics business, they continue to deliver gross margin year-over-year improvements in the core. And so, that, like in other quarters, has helped this quarter.
+
+In addition, what Satya mentioned earlier in a question, and I just want to take every chance to reiterate it, if you have a consistent infrastructure from the platform all the way up through its layers that every capital dollar we spend, if we optimize revenue against it, we will have great leverage because wherever demand shows up in the layers, whether it's at the SaaS layer, whether it's at the infrastructure layer, whether it's for training workloads, we're able to quickly put our infrastructure to work generating revenue on our Bing workloads. I mean I should have mentioned all the consumer workloads use the same frame. And so, when you think about our investment in AI, yes, it will -- because we're committed to leading this wave and see demand, you will see that impact in COGS growth. But what we're committed to doing is making sure it's highly leveraged and making sure you see the same growth in revenue.
+
+And I think on occasion, you may see something tick up 1 or 2 points and the other one not quite get there. But the point is it's going to be very well pared because of the choices we've made over the past, frankly, numerous years to get to a point where that infrastructure is consistent.
+
+Satya Nadella -- Chief Executive Officer
+
+And I'll just add that it will be very well pared at the company level. I realize all of you care a lot about each one of our segments and each one of our KPIs, and I do too. But at the end of the day, our stack and the way it works, the way we do our capital allocation, the way we think about even the optimization of the demand to utilization, is across the entirety of all of our segments and all of our products.
+
+Gregg Moskowitz -- Mizuho Securities -- Analyst
+
+Very helpful. Thank you.
+
+Brett Iversen -- General Manager, Investor Relations
+
+Thanks, Gregg. That wraps up the Q&A portion of today's earnings call. Thank you for joining us today, and we look forward to speaking with all of you soon.
+
+Amy Hood -- Chief Financial Officer
+
+Thank you.
+
+Satya Nadella -- Chief Executive Officer
+
+Thank you.
